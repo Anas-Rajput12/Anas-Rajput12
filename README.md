@@ -47,8 +47,9 @@ ________________________________________________________________________________
 
 ### Tools & Platforms  
 . Building **Admin Dashboards** and **CMS-driven apps**  
-. Package Managers & Tools: **npm, pnpm, yarn, Postman**  
-. Git & GitHub for version control and project management
+. Package Managers & Tools: **npm, pnpm, yarn**  
+. Development & Testing Tools: **VS Code, Postman**  
+. Git & GitHub for **version control and project management**  
 
 ## Hackathon Experience  
 . **Rental Car App** – Developed a car rental system with **cart booking, shipment tracking, and AI-powered suggestions**  
