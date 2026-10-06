@@ -1,25 +1,27 @@
 # 👋 Hi, I'm Muhammad Anas Qadri
 
-### AI Developer | Full-Stack Developer | AI Automation
+### AI Developer | Full-Stack Developer | AI Agents | AI Automation | AI-Native Applications
 
-I'm an **AI and Full-Stack Developer** from Pakistan focused on building intelligent, scalable, and user-centered applications using modern web technologies and AI.
+I'm an **AI and Full-Stack Developer** from Pakistan focused on building **AI-native applications, intelligent agents, automation systems, and scalable full-stack products** using modern web technologies and AI.
 
-I specialize in **LLM-powered applications, RAG systems, AI chatbots, voice-enabled assistants, automation, and full-stack development**.
+I specialize in **LLM-powered applications, RAG systems, AI agents, agentic workflows, AI chatbots, voice-enabled assistants, AI automation, and full-stack development**.
 
-I enjoy turning real-world problems into practical software — from **AI customer-support systems and career platforms to voice assistants and environmental monitoring applications**.
+I enjoy turning real-world problems into practical software — from **AI customer-support systems and career platforms to AI agents, voice assistants, and environmental monitoring applications**.
 
 ---
 
 ## 🚀 About Me
 
-* 🤖 Building **AI-powered applications and intelligent automation**
+* 🤖 Building **AI-native applications and intelligent automation systems**
 * 🧠 Working with **LLMs, RAG, NLP, semantic search, and AI chatbots**
+* 🕹️ Building **AI agents, agentic workflows, and task-oriented AI systems**
+* 🔄 Designing **AI-powered workflows that can reason, use tools, and execute tasks**
 * 🎙️ Building **voice-enabled applications with speech-to-text and text-to-speech**
 * ⚡ Developing full-stack applications with **Next.js, React, Python, and FastAPI**
 * 🗄️ Working with **PostgreSQL, Neon DB, Prisma, Firebase, and Qdrant**
 * ☁️ Deploying applications with **Vercel, Netlify, Docker, and cloud platforms**
 * 📱 Building both **web and mobile applications**
-* 🔍 Interested in **AI Agents, Agentic AI, AI Automation, and AI SaaS**
+* 🚀 Exploring **AI-Native Products, Agentic AI, AI Automation, and AI SaaS**
 
 ---
 
@@ -34,15 +36,20 @@ I enjoy turning real-world problems into practical software — from **AI custom
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=csharp\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 
-### 🤖 AI & LLM
+### 🤖 AI, LLMs & Agentic AI
 
-* OpenAI GPT-4o
+* AI-Native Application Development
+* AI Agents & Agentic AI
 * LLM Integration
+* OpenAI GPT-4o
 * Retrieval-Augmented Generation (RAG)
 * Natural Language Processing (NLP)
 * Semantic Search
 * AI Chatbots
 * AI Automation
+* Agentic Workflows
+* Tool-Using AI Agents
+* Task Automation
 * Speech-to-Text
 * Text-to-Speech
 * Voice Assistants
@@ -125,14 +132,14 @@ An AI-powered environmental monitoring platform designed to structure water-rela
 * Satellite-based environmental analysis
 * Actionable incident records
 
-🔗 **[Live Demo](https://hackathon-project-theta-brown.vercel.app/)**
-🔗 **[GitHub Repository](https://github.com/Anas-Rajput12/Hackathon-Project)**
+🔗 [**Live Demo**](https://hackathon-project-theta-brown.vercel.app/)
+🔗 [**GitHub Repository**](https://github.com/Anas-Rajput12/Hackathon-Project)
 
 ---
 
 ## 💼 ApplyAI — AI-Powered Career & Job Application Workspace
 
-A web and mobile platform designed to help users manage their complete job-application workflow.
+A web and mobile platform designed to help users manage their complete job-application workflow with AI-powered career assistance.
 
 **Technologies:**
 
@@ -148,8 +155,8 @@ A web and mobile platform designed to help users manage their complete job-appli
 * AI-generated application content
 * Web and mobile experience
 
-🔗 **[GitHub](https://github.com/Anas-Rajput12/Apply-Job)**
-🔗 **[Live Demo](https://apply-job1.vercel.app/)**
+🔗 [**GitHub Repository**](https://github.com/Anas-Rajput12/Apply-Job)
+🔗 [**Live Demo**](https://apply-job1.vercel.app/)
 
 ---
 
@@ -213,7 +220,7 @@ A voice-enabled assistant designed to support students with academic tasks, info
 
 ---
 
-## ✅ AI-Powered Todo App
+## 🤖 AI-Powered Todo App
 
 A task-management application enhanced with an AI chatbot that allows users to manage tasks using natural language.
 
@@ -258,6 +265,7 @@ Worked on AI-powered educational and automation solutions.
 * Integrated speech-to-text and text-to-speech APIs
 * Built interactive AI learning experiences
 * Developed intelligent automation solutions
+* Worked with LLM-powered application workflows
 
 ### Web Developer Intern — High Tech Software House
 
@@ -286,11 +294,15 @@ I'm currently exploring and building projects around:
 ```text
 AI Engineering
       ↓
+AI-Native Applications
+      ↓
 LLM Applications
       ↓
 RAG Systems
       ↓
 AI Agents
+      ↓
+Agentic AI
       ↓
 AI Automation
       ↓
@@ -299,7 +311,9 @@ Voice AI
 AI SaaS
 ```
 
-I'm particularly interested in building AI systems that can **understand information, make decisions, interact with users, and automate real-world workflows**.
+I'm particularly interested in building **AI-native systems and intelligent agents** that can understand information, reason over context, use tools, interact with users, make decisions, and automate real-world workflows.
+
+My goal is to build AI products that go beyond simple chat interfaces — **systems that can perform useful tasks and operate as intelligent software workers.**
 
 ---
 
@@ -309,8 +323,10 @@ I'm open to:
 
 * 💼 AI Developer opportunities
 * 🤖 AI Engineer roles
+* 🧠 AI Agent / Agentic AI opportunities
 * 🐍 Python Developer roles
 * 🌐 Full-Stack Developer positions
+* ⚙️ AI Automation projects
 * 🚀 AI startup opportunities
 * 💻 Freelance AI projects
 * 🤝 Open-source collaboration
@@ -332,18 +348,18 @@ I'm open to:
 [muhammadanasqadri2@gmail.com](mailto:muhammadanasqadri2@gmail.com)
 
 💼 **LinkedIn:**
-https://www.linkedin.com/in/muhammad-anas-qadri-a7608a2b7/
+[linkedin.com/in/muhammad-anas-qadri-a7608a2b7](https://www.linkedin.com/in/muhammad-anas-qadri-a7608a2b7/)
 
 💻 **GitHub:**
-https://github.com/Anas-Rajput12
+[github.com/Anas-Rajput12](https://github.com/Anas-Rajput12)
 
 🌐 **Portfolio:**
-https://portfolio12-iota-orcin.vercel.app/
+[portfolio12-iota-orcin.vercel.app](https://portfolio12-iota-orcin.vercel.app/)
 
 ---
 
 ## ⭐ Thanks for visiting!
 
-If you're interested in **AI, automation, full-stack development, or building intelligent products**, feel free to connect or collaborate.
+If you're interested in **AI, AI Agents, Agentic AI, AI Automation, AI-Native Applications, full-stack development, or building intelligent products**, feel free to connect or collaborate.
 
-### 🚀 Building with AI. Automating with purpose. Creating for impact.
+### 🚀 Building with AI. Automating with purpose. Creating intelligent products.
